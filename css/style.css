@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: #111;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#wrapper{
+    /* width: 600px;
+    height: 600px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+
+    /* background-color: aquamarine; */
+
+}
+
+/* .uch{
+    width: 0;
+    height:0;
+    border: 0 solid transparent;
+    border-right-width: 200px;
+    border-left-width: 100px;
+    border-bottom: 100px solid orange;
+    /* background-color:wheat; */
+    /* border-radius:50%; */
+/* } */ 
